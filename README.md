@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 《Python3网络爬虫开发实战》代码
+## 《Python3网络爬虫开发实战》代码
 
 * appium：微信朋友圈爬虫
 * beautifulsoup：BeautifulSoup操作
@@ -41,4 +40,3 @@
 * xpath：XPath示例
 =======
 # spiderCode
->>>>>>> e127683bc8169e3bbe664be234ad650922f15d92
