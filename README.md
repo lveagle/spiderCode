@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 《Python3网络爬虫开发实战》代码
 
 * appium：微信朋友圈爬虫
@@ -38,3 +39,6 @@
 * weiboslide：微博宫格验证码
 * weixin：微信公众号文章
 * xpath：XPath示例
+=======
+# spiderCode
+>>>>>>> e127683bc8169e3bbe664be234ad650922f15d92
